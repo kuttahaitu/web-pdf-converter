@@ -1,11 +1,11 @@
 # web-pdf-converter
 Convert Any web page into pdf and save them in your storage.
 
-# <a href="">Watch Video on YouTube</a>
-<p><a href="">Click here</a> & Watch Video on YouTube</p>
+# <a href="YouTube.com/@matrixcri">Watch Video on YouTube</a>
+<p><a href="YouTube.com/@matrixcri">Click here</a> & Watch Video on YouTube</p>
 
-# <a href="">Download Project</a>
-<p><a href="">Click here </a>& Download Project in Zip Format</p>
+# <a href="https://github.com/kuttahaitu/web-pdf-converter/archive/refs/heads/main.zip">Download Project</a>
+<p><a href="https://github.com/kuttahaitu/web-pdf-converter/archive/refs/heads/main.zip">Click here </a>& Download Project in Zip Format</p>
 
 # <a href="https://github.com/kuttahaitu/web-pdf-converter/raw/main/debug.apk">Test Package</a>
 <p><a href="https://github.com/kuttahaitu/web-pdf-converter/raw/main/debug.apk">Click here</a> & Download Test Package</p>
